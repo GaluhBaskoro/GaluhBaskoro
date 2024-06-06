@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @GaluhBaskoro
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning PHP OOP and MVC
-- 💞️ I’m looking to collaborate on PHP MVC apps for Supply Chain Management 
+- 👀 I’m interested in Coding, Music and Movie
+- 🌱 I’m student for software engineering at Revou
 - 📫 How to reach me on email at gtab.web@gmail.com
 - 😄 Pronouns: Galuh
 - ⚡ Fun fact: My education is'nt from technic or Engineering 
